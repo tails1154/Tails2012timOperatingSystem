@@ -1,0 +1,13 @@
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\bin\Debug\net6.0\Tails2012timOperatingSystem.deps.json
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\bin\Debug\net6.0\Tails2012timOperatingSystem.dll
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\bin\Debug\net6.0\Tails2012timOperatingSystem.pdb
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\Tails2012timOperatingSystem.csproj.AssemblyReference.cache
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\Tails2012timOperatingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\Tails2012timOperatingSystem.AssemblyInfoInputs.cache
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\Tails2012timOperatingSystem.AssemblyInfo.cs
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\Tails2012timOperatingSystem.csproj.CoreCompileInputs.cache
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\Tails2012timOperatingSystem.sourcelink.json
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\Tails2012timOperatingSystem.dll
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\refint\Tails2012timOperatingSystem.dll
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\Tails2012timOperatingSystem.pdb
+C:\Users\heiro\source\repos\Tails2012timOperatingSystem\Tails2012timOperatingSystem\obj\Debug\net6.0\ref\Tails2012timOperatingSystem.dll

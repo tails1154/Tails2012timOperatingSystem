@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "JStZkkKEkv0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\heiro\\source\\repos\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\heiro\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20240221061907\\cosmos.build.0.1.0-localbuild20240221061907.nupkg.sha512",
+    "C:\\Users\\heiro\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20240221061928\\cosmos.common.0.1.0-localbuild20240221061928.nupkg.sha512",
+    "C:\\Users\\heiro\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20240221061928\\cosmos.core.0.1.0-localbuild20240221061928.nupkg.sha512",
+    "C:\\Users\\heiro\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20240221061928\\cosmos.debug.kernel.0.1.0-localbuild20240221061928.nupkg.sha512",
+    "C:\\Users\\heiro\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20240221061928\\cosmos.hal2.0.1.0-localbuild20240221061928.nupkg.sha512",
+    "C:\\Users\\heiro\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20240221061928\\cosmos.plugs.0.1.0-localbuild20240221061928.nupkg.sha512",
+    "C:\\Users\\heiro\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20240221061928\\cosmos.system2.0.1.0-localbuild20240221061928.nupkg.sha512",
+    "C:\\Users\\heiro\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20240221061928\\il2cpu.api.0.1.0-localbuild20240221061928.nupkg.sha512"
+  ],
+  "logs": []
+}
