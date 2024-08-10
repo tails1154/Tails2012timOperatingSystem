@@ -18,8 +18,8 @@
         <Description>Use VMware Player or Workstation to deploy and debug.</Description>
         <PxeInterface>192.168.0.8</PxeInterface>
         <DebugEnabled>False</DebugEnabled>
-        <CompileVBEMultiboot>False</CompileVBEMultiboot>
-        <VBEResolution>1920x1080x32</VBEResolution>
+        <CompileVBEMultiboot>True</CompileVBEMultiboot>
+        <VBEResolution>1024x768x32</VBEResolution>
         <QemuMemory>256</QemuMemory>
         <QemuNetworkDevice>E1000</QemuNetworkDevice>
         <QemuUSBKeyboard>True</QemuUSBKeyboard>
