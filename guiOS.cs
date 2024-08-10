@@ -59,6 +59,7 @@ namespace guiOSbutnotmadebyai
                         {
                             input = "e";
                             canvas.DrawString("Enter Number 1 to add (screen wil freeze)", PCScreenFont.Default, Color.Red, 399, 256);
+                            canvas.Display();
                             Console.Write("Number 1 to add:");
                             input = Console.ReadLine();
 

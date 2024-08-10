@@ -23,8 +23,9 @@ namespace Tails2012timOperatingSystem
             VBECanvas screen = new VBECanvas(new Mode(1000, 753, ColorDepth.ColorDepth32));
             Console.WriteLine("Tails2012tim Operating System (ToS)");
             Console.WriteLine("Kernel Version 0.1");
-            Console.WriteLine("Would You Like to boot legacy guiOS? (yes/n)");
-            var choice = Console.ReadLine();
+            //Console.WriteLine("Would You Like to boot legacy guiOS? (yes/n)");
+            // var choice = Console.ReadLine();
+            var choice = "no";
             if (choice == "yes")
             {
                 guiOSbutnotmadebyai.guiOS guiOS = new guiOSbutnotmadebyai.guiOS();
