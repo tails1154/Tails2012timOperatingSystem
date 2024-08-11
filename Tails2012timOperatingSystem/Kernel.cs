@@ -26,11 +26,6 @@ namespace Tails2012timOperatingSystem
             //Console.WriteLine("Would You Like to boot legacy guiOS? (yes/n)");
             // var choice = Console.ReadLine();
             var choice = "no";
-            if (choice == "yes")
-            {
-                guiOSbutnotmadebyai.guiOS guiOS = new guiOSbutnotmadebyai.guiOS();
-                guiOS.BeforeRun();
-            }
             Console.WriteLine("Tails2012tim Operating System (ToS)");
             Console.WriteLine("Loading Non-Existant Drivers...");
             //put drivers here if I decide to make any

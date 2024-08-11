@@ -27,6 +27,8 @@
         <QemuVideoDriver>VGA</QemuVideoDriver>
         <QemuAudioDriver>AC97</QemuAudioDriver>
         <QemuUseSerial>True</QemuUseSerial>
+        <CompressionType>Gzip</CompressionType>
+        <AllowComments>False</AllowComments>
     </PropertyGroup>
 
     <ItemGroup>
