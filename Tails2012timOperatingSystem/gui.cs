@@ -57,7 +57,7 @@ namespace Tails2012timOperatingSystem
                 // Drawing operations
                 screen.DrawFilledRectangle(Color.LightBlue, 10, 10, 20, 20);
                 screen.DrawFilledRectangle(Color.DarkBlue, 0, 705, 1019, 767);
-                screen.DrawString(Cosmos.HAL.RTC.Month + "/" + RTC.DayOfTheMonth + "/" + RTC.Year, PCScreenFont.Default, Color.Black, 903, 720);
+                screen.DrawString(Cosmos.HAL.RTC.Month + "/" + RTC.DayOfTheMonth + "/" + RTC.Year, PCScreenFont.Default, Color.White, 903, 720);
                 screen.DrawString(RTC.Hour - 12 + ":" + RTC.Minute + ":" + RTC.Second, PCScreenFont.Default, Color.Black, 876, 743);
                 screen.DrawFilledRectangle(Color.Green, 564, 713, 100, 50);
                 screen.DrawString("Settings", PCScreenFont.Default, Color.Black, 600, 736);
