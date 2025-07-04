@@ -30,10 +30,10 @@ namespace Tails2012timOperatingSystem
             screen = new VBECanvas();
             screen.Mode = new Mode(1024, 768, ColorDepth.ColorDepth32); // Set desired resolution and color depth
             startupPercent(30, "Tails2012tim OS Is Loading Files (VFS)");
-//            VirtualFileSystem = new CosmosVFS();
+            VirtualFileSystem = new CosmosVFS();
 
             //Start Filesystem
-            VFSManager.RegisterVFS(VirtualFileSystem);
+//            VFSManager.RegisterVFS(VirtualFileSystem);
             startupPercent(60, "Tails2012tim OS Is Loading Files (Drivers)");
             drivers.initDrivers();
             //startupLoader("The keyboard handler was from aura os");
