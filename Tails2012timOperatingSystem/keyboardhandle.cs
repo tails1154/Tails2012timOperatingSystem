@@ -47,6 +47,26 @@ namespace Tails2012timOperatingSystem
                 {
                     key = "Backspace";
                 }
+		else if (keyEvent.Key == ConsoleKeyEx.W)
+		{
+			key = "W";
+			Gui.setMouseY(Gui.getMouseY() - 10);
+		}
+		else if (keyEvent.Key == ConsoleKeyEx.S)
+		{
+			key = "S";
+			Gui.setMouseY(Gui.getMouseY() + 10);
+		}
+		else if (keyEvent.Key == ConsoleKeyEx.A)
+		{
+			key = "A";
+			Gui.setMouseX(Gui.getMouseX() - 10);
+		}
+		else if (keyEvent.Key == ConsoleKeyEx.D)
+		{
+			key = "D";
+			Gui.setMouseX(Gui.getMouseX() + 10);
+		}
                 else
                 {
                     //if (key != keyEvent.KeyChar.ToString())
@@ -58,3 +78,4 @@ namespace Tails2012timOperatingSystem
         }
     }
 }
+

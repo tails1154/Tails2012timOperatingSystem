@@ -23,6 +23,8 @@ namespace Tails2012timOperatingSystem
         public static bool isFormattingDrive = false;
         public static string textboxText = "";
         public static bool isFormatDialogEnterPressed = false;
+	public static int mouseX = 0;
+	public static int mouseY = 0;
 
         public static void InitGui()
         {
@@ -85,8 +87,8 @@ namespace Tails2012timOperatingSystem
                 }
 
                 // Drawing cursor with lines
-                int mouseX = (int)MouseManager.X;
-                int mouseY = (int)MouseManager.Y;
+                int mouseX = getMouseX();
+                int mouseY = getMouseY();
                 // Some dialog items
                 if (isFormatDialogOpen)
                 {
@@ -249,7 +251,7 @@ namespace Tails2012timOperatingSystem
             screen.Display();
             screen.DrawString(status, PCScreenFont.Default, Color.Green, 400, 300);
             screen.DrawString("...", PCScreenFont.Default, Color.Blue, 400, 400);
-            screen.Display();
+              screen.Display();
             Cosmos.HAL.Global.PIT.Wait(500);
             screen.Clear(Color.Black);
             screen.Display();
@@ -272,5 +274,21 @@ namespace Tails2012timOperatingSystem
             screen.DrawString(percent.ToString() + "%", PCScreenFont.Default, Color.Blue, 400, 400);
             screen.Display();
         }
+	public static int getMouseX()
+	{
+		return mouseX;
+	}
+	public static int getMouseY()
+	{
+		return mouseY;
+	}
+	public static void setMouseX(int x)
+	{
+		mouseX = x;
+	}
+	public static void setMouseY(int y)
+	{
+		mouseY = y;
+	}
     }
 }
