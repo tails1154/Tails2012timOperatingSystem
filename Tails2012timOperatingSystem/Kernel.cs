@@ -13,6 +13,8 @@ using Cosmos.System;
 using Console = System.Console;
 using Cosmos.HAL.Drivers.Video;
 using System.IO.Compression;
+using guiOSbutnotmadebyai;
+
 
 namespace Tails2012timOperatingSystem
 {
@@ -20,7 +22,6 @@ namespace Tails2012timOperatingSystem
     {
         protected override void BeforeRun()
         {
-            VBECanvas screen = new VBECanvas(new Mode(1000, 753, ColorDepth.ColorDepth32));
             Console.WriteLine("Tails2012tim Operating System (ToS)");
             Console.WriteLine("Kernel Version 0.1");
             //Console.WriteLine("Would You Like to boot legacy guiOS? (yes/n)");
@@ -31,6 +32,12 @@ namespace Tails2012timOperatingSystem
             //put drivers here if I decide to make any
             Console.WriteLine("Loaded Drivers");
             Console.WriteLine("Starting GUI...");
+
+            guiOS guios = new guiOS();
+            guios.BeforeRun();
+
+            VBECanvas screen = new VBECanvas(new Mode(1000, 753, ColorDepth.ColorDepth32));
+
             //var screen = FullScreenCanvas.GetFullScreenCanvas();
             Gui.InitGui();
 

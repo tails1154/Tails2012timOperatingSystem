@@ -152,7 +152,7 @@ namespace guiOSbutnotmadebyai
                     }
                     else if (startshown && MouseManager.LastMouseState == MouseState.Left && MouseManager.Y >= 711 & MouseManager.Y <= 752 & MouseManager.X >= 0 & MouseManager.X <= 86)
                     {
-                        Sys.Power.Shutdown();
+                        return;
                     }
                     else if (MouseManager.LastMouseState == MouseState.Left && MouseManager.Y >= 6 & MouseManager.Y <= 90 & MouseManager.X >= 135 & MouseManager.X <= 222)
                     {

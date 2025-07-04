@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Use VMware Player or Workstation to deploy and debug.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cbbb0623833e6f822de7a5362bf111817d7a438")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6acf45525533bba22d24c1bf150532b23739870b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tails2012timOperatingSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tails2012timOperatingSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
