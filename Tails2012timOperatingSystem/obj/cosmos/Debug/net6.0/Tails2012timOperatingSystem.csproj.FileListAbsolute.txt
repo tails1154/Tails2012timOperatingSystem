@@ -1,0 +1,13 @@
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/bin/cosmos/Debug/net6.0/Tails2012timOperatingSystem.deps.json
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/bin/cosmos/Debug/net6.0/Tails2012timOperatingSystem.dll
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/bin/cosmos/Debug/net6.0/Tails2012timOperatingSystem.pdb
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/Tails2012timOperatingSystem.csproj.AssemblyReference.cache
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/Tails2012timOperatingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/Tails2012timOperatingSystem.AssemblyInfoInputs.cache
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/Tails2012timOperatingSystem.AssemblyInfo.cs
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/Tails2012timOperatingSystem.csproj.CoreCompileInputs.cache
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/Tails2012timOperatingSystem.sourcelink.json
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/Tails2012timOperatingSystem.dll
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/refint/Tails2012timOperatingSystem.dll
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/Tails2012timOperatingSystem.pdb
+/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/cosmos/Debug/net6.0/ref/Tails2012timOperatingSystem.dll

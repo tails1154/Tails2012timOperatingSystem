@@ -1,32 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heiro\\source\\repos\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem.csproj": {}
+    "/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/Tails2012timOperatingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heiro\\source\\repos\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem.csproj": {
+    "/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/Tails2012timOperatingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heiro\\source\\repos\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem.csproj",
+        "projectUniqueName": "/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/Tails2012timOperatingSystem.csproj",
         "projectName": "Tails2012timOperatingSystem",
-        "projectPath": "C:\\Users\\heiro\\source\\repos\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem.csproj",
-        "packagesPath": "C:\\Users\\heiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heiro\\source\\repos\\Tails2012timOperatingSystem\\Tails2012timOperatingSystem\\obj\\",
+        "projectPath": "/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/Tails2012timOperatingSystem.csproj",
+        "packagesPath": "/home/user/.nuget/packages/",
+        "outputPath": "/home/user/Tails2012timOperatingSystem/Tails2012timOperatingSystem/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\heiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/user/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\heiro\\AppData\\Roaming\\Cosmos User Kit\\packages\\": {},
+          "/opt/cosmos/Packages/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -90,12 +84,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/user/.dotnet/sdk/8.0.411/RuntimeIdentifierGraph.json"
         }
       }
     }
